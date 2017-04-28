@@ -1,3 +1,5 @@
+To use this code you will need to have a NVIDIA graphics card and CUDA installed.
+
 To compile and run you will need to install libconfig and gtest files.
 To compile simply type make. To run create an output directory and type
 ./gpu-vh --config rhic-conf -o output_directory_you_created -h
